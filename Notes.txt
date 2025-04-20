@@ -1,0 +1,7 @@
+made variable with true or false
+add variable to the setInterval to stop it
+made a setInterval function to run it anytime
+
+stop the setInterval when click the button No in the document
+check laocalStroage to check th buttons No or Yes
+and run the function
